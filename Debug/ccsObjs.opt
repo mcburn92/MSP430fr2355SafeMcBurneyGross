@@ -1,0 +1,6 @@
+"./keypad.obj"
+"./main.obj"
+"./rgbled.obj"
+"../lnk_msp430fr2355.cmd"
+-lfrwp_init.a
+-llibc.a
